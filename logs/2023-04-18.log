@@ -1,0 +1,3 @@
+09:42:58.526 INFO  SIP2_GIS_SERVICE. Start Zone Pt Api in GIS 
+09:42:58.526 INFO  SIP2_GIS_SERVICE.  [Select top(100) from employee_master_data] 
+09:42:58.594 INFO  SIP2_GIS_SERVICE. [RequestError: Incorrect syntax near the keyword 'from'.], [Something went wrong. Please try again after sometime] 
